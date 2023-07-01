@@ -1,0 +1,8 @@
+.app{
+    background-color: rgba(221, 218, 218, 0.925);
+    height: 100vh;
+}
+
+.app_body{
+    display: flex;
+}
